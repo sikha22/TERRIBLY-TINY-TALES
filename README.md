@@ -16,6 +16,9 @@ The component is exported as the default export using the export default syntax.
 ## Note: 
 The component assumes that the text file at the specified URL is in English and uses whitespace and apostrophes to tokenize words. It also does not handle errors that may occur during the fetch operation or during the CSV export operation.
 
+## Deployement Link
+https://app.netlify.com/teams/sikha22/overview
+
 
 
 
